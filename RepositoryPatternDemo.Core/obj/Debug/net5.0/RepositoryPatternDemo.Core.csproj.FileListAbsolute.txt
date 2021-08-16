@@ -1,0 +1,12 @@
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\bin\Debug\net5.0\RepositoryPatternDemo.Core.deps.json
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\bin\Debug\net5.0\RepositoryPatternDemo.Core.dll
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\bin\Debug\net5.0\ref\RepositoryPatternDemo.Core.dll
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\bin\Debug\net5.0\RepositoryPatternDemo.Core.pdb
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.AssemblyInfoInputs.cache
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.AssemblyInfo.cs
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.dll
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\ref\RepositoryPatternDemo.Core.dll
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.pdb
+C:\Users\Amr Abd EL-Maksod\source\repos\RepositoryPatternDemo\RepositoryPatternDemo.Core\obj\Debug\net5.0\RepositoryPatternDemo.Core.csproj.AssemblyReference.cache
